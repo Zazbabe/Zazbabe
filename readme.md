@@ -1,6 +1,6 @@
 ## About Me 😄
 
-Hi, I'm Zazzy Zaz! I'm a passionate developer with a knack for creating efficient, scalable solutions. My journey in tech spans web development, automation, and data analysis. I'm always excited to learn new technologies and collaborate on exciting projects.
+Hi, I'm Zazbabe, also known as Sandra! I'm a passionate developer with a knack for creating efficient, scalable solutions. My journey in tech spans web development, automation, and data analysis. I'm always excited to learn new technologies and collaborate on exciting projects.
 
 
 - 🌱 I’m currently exploring **Machine Learning** and **Data Visualization**.
