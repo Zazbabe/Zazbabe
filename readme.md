@@ -1,6 +1,8 @@
 ## About Me 😄
 
-Hi, I'm Sandra! I'm a technically oriented and solution-driven developer with a background in IT support, system operations, and consultancy. Interest in Data Science, programming and AI, with education in object-oriented programming, Data Science and tools such as Python, AI/ML basics (Pandas, Numpy, Scikit-learn) and Azure. Experienced in working independently, in agile teams, and in distributed environments. Thrives in team environments where I can contribute with structure, commitment and technical curiosity. I have also worked as team lead/Scrum Master in an internal development project focused on building an app that supported consultants’ personal development through gamification. I'm always excited to learn new technologies and collaborate on exciting projects.
+Hi, I'm Sandra! I'm a technically oriented and solution-driven developer with a background in IT support, system operations, and consultancy. Interest in Data Science, programming and AI, with education in object-oriented programming, Data Science and tools such as Python, AI/ML basics (Pandas, Numpy, Scikit-learn) and Azure. Experienced in working independently, in agile teams, and in distributed environments. Thrives in team environments where I can contribute with structure, commitment and technical curiosity. I have also worked as team lead/Scrum Master in an internal development project focused on building an app that supported consultants’ personal development through gamification.
+
+I'm always excited to learn new technologies and collaborate on exciting projects.
 
 
 - 🌱 I’m currently exploring **Machine Learning** and **Data Visualization**.
