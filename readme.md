@@ -8,7 +8,7 @@ I'm always excited to learn new technologies and collaborate on exciting project
 - 🌱 I’m currently exploring **Machine Learning** and **Data Visualization**.
 - 🤝 I’m looking to collaborate on **open-source projects** and **data science projects**.
 - 💬 Ask me about **Python**, **AI/ML basics**, and **Azure**.
-- 📫 How to reach me: [mail](zazaelfi@hotmail.com)
+- 📫 How to reach me: [zazaelfi@hotmail.com](zazaelfi@hotmail.com)
 - ⚡ Fun fact: I'm a board game enthusiast who has 3 cats!
 
 ## 📫 Connect with Me
