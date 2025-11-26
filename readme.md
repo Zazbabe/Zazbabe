@@ -5,7 +5,7 @@ Hi, I'm Sandra! I'm a technically oriented and solution-driven developer with a 
 I'm always excited to learn new technologies and collaborate on exciting projects.
 
 
-- 🌱 I’m currently exploring **Machine Learning** and **Data Visualization**.
+- 🌱 I’m currently exploring **C#** and **.NET**.
 - 🤝 I’m looking to collaborate on **open-source projects** and **data science projects**.
 - 💬 Ask me about **Python**, **AI/ML basics**, and **Azure**.
 - 📫 How to reach me: [zazaelfi@hotmail.com](zazaelfi@hotmail.com)
